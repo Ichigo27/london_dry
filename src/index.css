@@ -1,0 +1,13 @@
+@import url('https://use.typekit.net/lfv4vbh.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.oval {
+  background: #fff;
+  border: 1px solid #000;
+  border-radius: 50%;
+  widht: 100px;
+  height: 700px;
+  rotate: 90deg;
+}
